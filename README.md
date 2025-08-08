@@ -78,11 +78,4 @@ ROC-AUC Score: 1.00
 <img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/82307083-7017-4cca-83b6-5c2f824677b3" />
 <img width="640" height="480" alt="Figure_3" src="https://github.com/user-attachments/assets/02061107-5103-4eec-b580-f6c7b881a792" />
 
----
-
-## Submission
-
-🔗 GitHub Repository: [Paste your repo link here]
-
-🔗 Submission Form: [https://forms.gle/8Gm83s53KbyXs3Ne9](https://forms.gle/8Gm83s53KbyXs3Ne9)
 
